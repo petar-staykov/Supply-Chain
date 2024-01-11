@@ -1,6 +1,6 @@
-unique_name: Turnover
+unique_name: Routes
 object_type: model
-label: Turnover
+label: Routes
 dimensions:
   - Color Dimension
   - Size Dimension

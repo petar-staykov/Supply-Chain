@@ -1,6 +1,6 @@
-unique_name: Turnover
+unique_name: Production Actual
 object_type: model
-label: Turnover
+label: Production Actual
 dimensions:
   - Color Dimension
   - Size Dimension

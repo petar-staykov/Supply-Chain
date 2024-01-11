@@ -1,6 +1,6 @@
-unique_name: Turnover
+unique_name: Production Plan
 object_type: model
-label: Turnover
+label: Production Plan
 dimensions:
   - Color Dimension
   - Size Dimension

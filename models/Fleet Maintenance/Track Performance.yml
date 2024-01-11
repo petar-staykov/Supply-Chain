@@ -1,6 +1,6 @@
-unique_name: Turnover
+unique_name: Track Performance
 object_type: model
-label: Turnover
+label: Track Performance
 dimensions:
   - Color Dimension
   - Size Dimension
