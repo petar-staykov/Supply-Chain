@@ -1,0 +1,3 @@
+[submodule "Shared-Library"]
+	path = Shared-Library
+	url = https://github.com/petar-staykov/Shared-Library.git
