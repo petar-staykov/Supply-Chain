@@ -5,18 +5,18 @@ is_degenerate: true
 
 hierarchies:
 
-  - unique_name: Weight
+  - unique_name: Weight Hierarchy
     label: Weight
     folder: Product Attributes
     filter_empty: "yes"
 
     levels:
 
-      - unique_name: Weight
+      - unique_name: Weight Level
 
 level_attributes:
 
-  - unique_name: Weight
+  - unique_name: Weight Level
     label: Weight
     dataset: factinternetsales
     name_column: weight

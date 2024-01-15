@@ -12,11 +12,11 @@ hierarchies:
 
     levels:
 
-      - unique_name: Style
+      - unique_name: Style Level
 
 level_attributes:
 
-  - unique_name: Style
+  - unique_name: Style Level
     label: Style
     description: Product Style
     is_hidden: true
