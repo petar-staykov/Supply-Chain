@@ -1,6 +1,6 @@
 unique_name: Inventory
 object_type: model
-label: Inventory
+label: Inventory Model
 dimensions:
   - Color Dimension
   - Size Dimension

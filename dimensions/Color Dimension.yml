@@ -12,11 +12,11 @@ hierarchies:
 
     levels:
 
-      - unique_name: Color
+      - unique_name: Color Level
 
 level_attributes:
 
-  - unique_name: Color
+  - unique_name: Color Level
     label: Color
     description: Product Color
     is_hidden: true
