@@ -1,6 +1,6 @@
 unique_name: SupplyChain
 label: Supply Chain
-object_type: AtscaleSettings
+object_type: catalog
 as_version: 1.0
 aggressive_agg_promotion: false
 build_speculative_aggs: false
