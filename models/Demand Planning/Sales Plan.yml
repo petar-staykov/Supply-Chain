@@ -1,6 +1,7 @@
 unique_name: Sales Plan
 object_type: model
 label: Sales Plan
+# This is sales plan
 dimensions:
   - Color Dimension
   - Size Dimension
