@@ -191,24 +191,6 @@ perspectives:
           - d_firstname
           - d_lastname
 relationships:
-  - unique_name: factinternetsales_Date_Dimension_Order
-    from:
-      dataset: factinternetsales
-      join_columns:
-        - orderdatekey
-    role_play: Order {0}
-    to:
-      dimension: Date Dimension
-      level: DayMonth
-  - unique_name: factinternetsales_Date_Dimension_Ship
-    from:
-      dataset: factinternetsales
-      join_columns:
-        - shipdatekey
-    role_play: Ship {0}
-    to:
-      dimension: Date Dimension
-      level: DayMonth
   - unique_name: factinternetsales_Date_Dimension_Order_1
     from:
       dataset: factinternetsales
@@ -245,24 +227,6 @@ relationships:
     to:
       dimension: Order Dimension
       level: order_line_item
-  - unique_name: factinternetsales_Date_Dimension_Order_2
-    from:
-      dataset: factinternetsales
-      join_columns:
-        - orderdatekey
-    role_play: Order {0}
-    to:
-      dimension: Date Dimension
-      level: customday
-  - unique_name: factinternetsales_Date_Dimension_Ship_2
-    from:
-      dataset: factinternetsales
-      join_columns:
-        - shipdatekey
-    role_play: Ship {0}
-    to:
-      dimension: Date Dimension
-      level: customday
   - unique_name: factinternetsales_Customer_Dimension
     from:
       dataset: factinternetsales
